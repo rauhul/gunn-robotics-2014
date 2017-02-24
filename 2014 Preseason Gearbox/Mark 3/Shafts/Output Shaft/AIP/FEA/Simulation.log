@@ -1,0 +1,68 @@
+﻿Simulation Simulation:1 started: 6/24/2013, 2:48:01 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Simulation Simulation:1 finished: 6/24/2013, 2:48:03 PM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 6/24/2013, 2:49:19 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Solution time 1.3s
+Convergence rate: 10.1%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 6/24/2013, 2:49:21 PM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 6/24/2013, 2:50:06 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Solution time 0.8s
+Convergence rate: 47.3%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 6/24/2013, 2:50:07 PM
+Total time 0:00:01
+
+Simulation Simulation:1 started: 6/24/2013, 2:51:05 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Solution time 0.2s
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 6/24/2013, 2:51:06 PM
+Total time 0:00:01
+
+Simulation Simulation:1 started: 6/24/2013, 2:51:57 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Solution time 0.8s
+Convergence rate: 47.3%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 6/24/2013, 2:51:58 PM
+Total time 0:00:01
+
+Simulation Simulation:1 started: 6/24/2013, 2:52:41 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Solution time 1.3s
+Convergence rate: 0.642%
+Problem converged 
+Simulation Simulation:1 finished: 6/24/2013, 2:52:43 PM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 6/24/2013, 2:54:10 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Solution time 1.5s
+Convergence rate: 0.642%
+Problem converged 
+Simulation Simulation:1 finished: 6/24/2013, 2:54:11 PM
+Total time 0:00:01
+
+Simulation Simulation:1 started: 6/24/2013, 2:54:43 PM
+Number of configurations: 1
+Default mesh: 1900 elements, 3675 nodes
+Solution time 1.3s
+Convergence rate: 0.73%
+Problem converged 
+Simulation Simulation:1 finished: 6/24/2013, 2:54:44 PM
+Total time 0:00:01
+
